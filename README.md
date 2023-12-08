@@ -17,9 +17,10 @@ Project consists of sub categories of a configuring Active Directory, Roles, SCC
 <h2>Program walk-through:</h2>
 
 <p align="center">
- SCCM setup and reemote deployment of windows (PXE): 
- <a href="https://www.notion.so/SCCM-e6a66acc73dd4f6da537d0753bfa93d0?pvs=4">Souce Content</a>  
+ SCCM setup and remote deployment of windows (PXE): 
+ <a href="https://www.notion.so/SCCM-e6a66acc73dd4f6da537d0753bfa93d0?pvs=4">Souce Content For The Full Content</a>  
  <br/>
+  <br />
  
  <img src="https://i.imgur.com/1GkyhrV.png" height="80%" width="80%" alt="SCCM setup"/>
  <br />
