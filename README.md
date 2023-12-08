@@ -15,19 +15,18 @@ Project consists of sub categories of a configuring Active Directory, Roles, SCC
 - <b>server 2019</b>
 
 <h2>Program walk-through:</h2>
-<p>Use "imgur Image". Take a screen shot, upload it to imgur, copy the link address, then you can attach that address to this document as a image source </p>
-
 
 <p align="center">
-SCCM setup and reemote deployment of windows (PXE): 
-<a href="https://www.notion.so/SCCM-e6a66acc73dd4f6da537d0753bfa93d0?pvs=4">Souce Content</a>  
-<br/>
-
-<!-- <img src="" height="80%" width="80%" alt="SCCM setup"/> -->
-<br />
-<br />
-
+ SCCM setup and reemote deployment of windows (PXE): 
+ <a href="https://www.notion.so/SCCM-e6a66acc73dd4f6da537d0753bfa93d0?pvs=4">Souce Content</a>  
+ <br/>
+ 
+ <img src="https://imgur.com/1GkyhrV" height="80%" width="80%" alt="SCCM setup"/>
+ <br />
+ <br />
 </p>
+
+
 
 <!--
  ```diff
